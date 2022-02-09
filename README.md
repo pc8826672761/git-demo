@@ -2,7 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-Hello world
-Hello i ma learning git.
+## Website content
+
+basic index.html
 
